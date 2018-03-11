@@ -1,0 +1,14 @@
+*~
+*.o
+*.swp
+*.swo
+*_temp/
+*temp/
+*.log
+logs/
+*.pid
+*.out
+*.rdb
+*.pyc
+stdout
+
